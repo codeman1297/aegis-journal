@@ -1,0 +1,6 @@
+{
+  "name": "AegisJournal",
+  "description": "Secure, user-authenticated journaling web application with Firebase Authentication, Cloud Firestore isolation, and server-side Gemini AI reflections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
